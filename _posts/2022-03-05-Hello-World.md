@@ -1,6 +1,6 @@
 ---
 layout: post
-title: introduction
+title: Introduction
 category: overview
 ---
 
