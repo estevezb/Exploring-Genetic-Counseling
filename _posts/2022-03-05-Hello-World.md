@@ -7,7 +7,7 @@ category: overview
 
 1
 ------
-DNA is a chemical code that has impacts on many aspects of our health. Variations in that DNA code -or smaller parts of it called genes- are passed down from generation to generation, and some of those changes can cause familial diseases or birth defects.  Genetics is the study of DNA its constituent genes and their inheritance.  
+DNA is a chemical code that has impacts on many aspects of our health. Variations in that DNA code -or smaller parts of it called genes- are passed down from generation to generation, and some of those changes can cause familial diseases or birth defects.  Genetics is the study of DNA, its constituent genes and their inheritance.  
 
 The field of genetic counseling can be thought of as a branch of human genetics. Consequently, genetic counselors are well-versed in human genetics. Perhaps more importantly, genetic counselors (GCs) help patients and their families navigate the impact of genetic abnormalities on their health. GCs play an important in healthcare. A key aspect of their job is educating patients on genetic testing. Like a specialty physician, such as a Hematologist, genetic counselors will have an area of specialization. These specialties are prenatal, neurology, ophthalmology, pediatric, psychiatry, oncology, and metabolic disorders. 
 
