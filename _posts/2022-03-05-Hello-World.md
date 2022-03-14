@@ -15,7 +15,7 @@ As mentioned GCs are trained in medical genetics and in counseling patients that
 
 A patient may be referred to a GC by their physician to discuss family history and genetic risks. The referral to the GC can be before or after genetic testing is performed. GCs will educate patients on their genetic risk for certain diseases and potential for birth defects, when to seek out genetic testing and what the results mean for the patient and their family. As the names implies, genetic testing is a test that looks for disease-causing changes in genes or DNA.  Blood, cheek swabs or saliva can be used to extract patient DNA that is needed for genetic tests <sup>[2]</sup>.
 
-Although the majoriy of GCs work in hopsitals educating and interacting with patients, other sectors they work include include research, academia, industry, marketing. GCs can work in university settings, private and public hospitals, diagnostic laboratories, and in physician offices <sup>[3]</sup>.
+Although the majoriy of GCs work in hopsitals educating and interacting with patients, other sectors in which they often work include include research, academia, industry, marketing. GCs can work in university settings, private and public hospitals, diagnostic laboratories, and in physician offices <sup>[3]</sup>.
 
 | Sector        | % Employed    |
 | :------------- |:-------------:|
