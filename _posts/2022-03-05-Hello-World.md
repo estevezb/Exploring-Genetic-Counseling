@@ -17,7 +17,7 @@ A patient may be referred to a GC by their physician to discuss family history a
 
 Although the majoriy of GCs work in hopsitals educating and interacting with patients, other sectors in which they often work include include research, academia, industry, marketing. GCs can work in university settings, private and public hospitals, diagnostic laboratories, and in physician offices <sup>[3]</sup>.
 
-| Sector        | % Employed    |
+| Top Sectors        | % Employed    |
 | :------------- |:-------------:|
 | Hospitals; state, local, and private| 46% |
 | Office of physicianes      | 11%      |  
